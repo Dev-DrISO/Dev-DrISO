@@ -51,3 +51,6 @@ Driven by curiosity and the pursuit of knowledge. I love exploring new technolog
 ---
 
 ✨ _Thanks for visiting my profile!_
+
+![DEV-DrISO GitHub stats](https://github-readme-stats.vercel.app/api?username=DEV-DrISO&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DEV-DrISO&layout=compact&show_icons=true&theme=radical)
